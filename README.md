@@ -1,6 +1,6 @@
-# Data Sciencester: Exploring "Data Science From Zero"
+# Data Sciencester: Exploring "Data Science From Scratch"
 
-Being selected to participate in the Santander Coders bootcamp, a program offered by Ada Tech in collaboration with Santander Open Academy, comes with its perks. Participants receive a welcome box containing not only a sleek set of headphones and a thermal cup but also the fantastic book "Data Science From Zero," which was already on my wishlist.
+Being selected to participate in the Santander Coders bootcamp, a program offered by Ada Tech in collaboration with Santander Open Academy, comes with its perks. Participants receive a welcome box containing not only a sleek set of headphones and a thermal cup but also the fantastic book "Data Science From Scratch," which was already on my wishlist.
 
 I've created this repository to condense my notes and practice the concepts learned from reading this book.
 
